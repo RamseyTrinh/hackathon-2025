@@ -17,12 +17,6 @@ npm run dev
 
 # Backend
 
-### Architecture Pattern
-
-(![alt text](image.png))
-
-### Commands
-
 **1. Setup environment**
 - Create environment file
 
